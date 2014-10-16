@@ -2,7 +2,7 @@
 # -*- coding: utf8 -*-
 
 # -----------------------------------------------------------------------------
-# get_wikibook.py
+# get_wikibook.py (version 0.1)
 # Copyright (C) 2011  Gerald Backmeister (http://mamu.backmeister.name)
 #
 # This program is free software: you can redistribute it and/or modify
